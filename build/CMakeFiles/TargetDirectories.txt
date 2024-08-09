@@ -1,0 +1,3 @@
+/home/mustafa/Videos/telefon-rehberi/webview-telefon-rehberi/build/CMakeFiles/webview-sample.dir
+/home/mustafa/Videos/telefon-rehberi/webview-telefon-rehberi/build/CMakeFiles/edit_cache.dir
+/home/mustafa/Videos/telefon-rehberi/webview-telefon-rehberi/build/CMakeFiles/rebuild_cache.dir
