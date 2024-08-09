@@ -33,5 +33,6 @@ int main() {
 | Kişi-6 | Soyad | (0) 555 555 55 55 |
 
 
-> Note: `https://telefon-rehberi.onrender.com` sitesini bağlanması ile farklı ortamlardan düzenlenmesi sağlanmıştır.
+> Note: `https://telefon-rehberi.onrender.com` sitesini bağlanması ile farklı ortamlardan düzenlenmesi sağlanmıştır.  
+> Bilgilendirme: eğer uzun süre işlem yapılmamışsa tekrar açılımda 30-60 saniye gecikme yaşanabilir ramdan tasarruf amaçlı
 
